@@ -1,0 +1,105 @@
+body{
+    margin:0 auto;
+    padding:0;
+    background:white;
+}
+.toparea{
+    background:#B35550;
+    padding:10px 0;
+    text-align:center;
+    color:white;
+}
+.logoarea{
+    background:#F2C38B;
+    padding:50px 0;
+    text-align:center;
+}
+.logoarea img{
+    height:110px;
+}
+.logoarea h1{
+    color:#74353F;
+}
+.logoarea h4{
+    color:#212529;
+}
+.parea{
+    background:white;
+    padding:50px 0;
+    text-align:center;
+}
+    .fullwidth{
+        width:100%;
+    }
+    .parea p{
+        text-align:justify;
+    }
+    .parea p:last-child{
+        text-align: right;
+    }
+.course{
+    background:url("pexels-janko-ferlic-590493.jpg");
+    padding:59px 0;
+    text-align:center;
+}
+    .course h2{
+        align:center;
+    }
+    .course p{
+        background:white;
+        padding:15px;
+    }
+.box{
+    padding:32px 0;
+    margin:;
+    background:white;
+    width:100%;
+    overflow:hidden;
+}
+    .box img{
+        width:100%;
+        transition:all 2s;
+        overflow:hidden;
+    }
+    .box:hover img{
+        transform:rotate(360deg);
+        overflow:hidden;
+    }
+
+.picture{
+    background-image:url('https://media.licdn.com/dms/image/C5612AQFbEkuynqzwtw/article-cover_image-shrink_720_1280/0/1520248445557?e=1709164800&v=beta&t=wmYG96e7UlI8iCrHUxpv54X74gBSjYj5eBh-Se--y7k')
+    padding:150px 0;
+    background-size:cover;
+}
+
+.description{
+    background:#1D1D1D;
+    padding-top:55px;
+    text-align:left;
+
+}
+    .description h5{
+         color:white;  
+    }
+    .description ul li{
+        list-style:none;
+        color:#D37F57;
+        text-align:none;
+    }
+    .description p{
+        color:#F2C38B;
+    }
+    .description c{
+        color:#D37F57;
+    }
+    .description a{
+        text-align:left;
+        color:#D37F57;
+    }
+
+.line{
+    height:1px;
+    background-image: linear-gradient(to right,transparent,white,transparent);
+}
+
+
